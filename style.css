@@ -1,9 +1,11 @@
 body {
-    background-color: gray;
+    background-color: black;
 }
 
 #logo {
     position: fixed;
     width: 30%;
     max-width: 250px;
+    fill: green;
+    left: 200px;
 }
