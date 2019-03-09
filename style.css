@@ -1,0 +1,9 @@
+body {
+    background-color: gray;
+}
+
+#logo {
+    position: fixed;
+    width: 30%;
+    max-width: 250px;
+}
